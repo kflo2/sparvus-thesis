@@ -4,17 +4,20 @@ project:
 
 website:
   title: "My Thesis"
-  navbar:
-    left:
-      - text: Home
-        href: index.qmd
-      - text: Methods
-        href: methods.qmd
-      - text: Discussion
-        href: discussion.qmd
+  sidebar:
+    style: "docked"
+    contents:
+      - section: "Introduction"
+        contents:
+          - index.qmd
+      - section: "Methods"
+        contents:
+          - methods.qmd
+      - section: "Discussion"
+        contents:
+          - discussion.qmd
 
 format:
   html:
     theme: cosmo
     toc: true
-
