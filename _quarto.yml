@@ -10,8 +10,6 @@ website:
         href: index.qmd
       - text: Methods
         href: methods.qmd
-      - text: Results
-        href: results.qmd
       - text: Discussion
         href: discussion.qmd
 
