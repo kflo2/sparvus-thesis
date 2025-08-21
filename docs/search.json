@@ -20,5 +20,27 @@
       "Introduction",
       "Welcome"
     ]
+  },
+  {
+    "objectID": "methods.html",
+    "href": "methods.html",
+    "title": "methods",
+    "section": "",
+    "text": "#library(tidyverse)\n\ndf -h #make sure /Volumes/research/cmbdata/ shows up\nkatefloer@katefloers-MacBook-Pro ~ % df -h\n\nFilesystem                                               Size    Used   Avail Capacity iused ifree %iused  Mounted on\n//cmblab@ad.smith.edu/files/academic/research/cmbdata   4.0Ti   2.6Ti   1.4Ti    67%    711M  363M   66%   /Volumes/research/cmbdata\ncd /Volumes/research/cmbdata/mangiamelelab/Tadpole_RNAseq Data",
+    "crumbs": [
+      "Methods",
+      "methods"
+    ]
+  },
+  {
+    "objectID": "methods.html#methods",
+    "href": "methods.html#methods",
+    "title": "methods",
+    "section": "",
+    "text": "#library(tidyverse)\n\ndf -h #make sure /Volumes/research/cmbdata/ shows up\nkatefloer@katefloers-MacBook-Pro ~ % df -h\n\nFilesystem                                               Size    Used   Avail Capacity iused ifree %iused  Mounted on\n//cmblab@ad.smith.edu/files/academic/research/cmbdata   4.0Ti   2.6Ti   1.4Ti    67%    711M  363M   66%   /Volumes/research/cmbdata\ncd /Volumes/research/cmbdata/mangiamelelab/Tadpole_RNAseq Data",
+    "crumbs": [
+      "Methods",
+      "methods"
+    ]
   }
 ]
