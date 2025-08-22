@@ -4,30 +4,42 @@ format: html
 editor: visual
 ---
 
-## Methods
+## Raw Data
 
-```{r}
-#library(tidyverse)
-```
+### Looking at raw data (from a Mac computer)
 
+1. Log onto the CMB server from your computer (on a Mac `Desktop` > `Go` > `Connect to Server` > log in to `smb://cmblab:*@ad.smith.edu/files/academic/research` with credentials your login credentials from Riccardo) 
+2. Go to your terminal to double check you actually have access to the folder. We will be looking for mounted files in your system. A mounted file is a storage device or remote share that’s currently attached to your system and accessible via a directory (the mount point).
 
+::: {.callout-tip}
+Input:
 ```bash
-df -h #make sure /Volumes/research/cmbdata/ shows up
+df -h 
 ```
+`df` = “disk free,” the command to display disk space usage.
+`-h` = “human-readable,” so sizes appear in KB, MB, GB, or TB instead of raw bytes.
 
+If connecting/ mounting happened successfully, the output should contain the cmb filepath in addition to your own personal files (only cmb file shown below).
+
+Output:
 ```bash
 Filesystem                                               Size    Used   Avail Capacity iused ifree %iused  Mounted on
 //cmblab@ad.smith.edu/files/academic/research/cmbdata   4.0Ti   2.6Ti   1.4Ti    67%    711M  363M   66%   /Volumes/research/cmbdata
 ```
+:::
 
+3. Now we will go to the directory where our raw data is located and check how many files there are. (Need to add ls -lh step but it takes ages from my terminal, don't know why. Easier to check file size from human readbale folder)
 ```bash
 cd "/Volumes/research/cmbdata/mangiamelelab/Tadpole_RNAseq Data"
 ```
+`cd`= change directory
 
 ```bash
 katefloer@katefloers-MacBook-Pro Tadpole_RNAseq Data % ls -1 | wc -l
      158
 ```
+
+4. Do this only if you have loads of space on your PC -- need to change this step to import directly to HPC
 
 ```bash
 #copy smaller files to test 
@@ -36,8 +48,9 @@ cp 17B* /Users/katefloer/parvus/
 ```
 
 Copying with cp doesn’t check file integrity by itself—it just copies bytes.
-To confirm the copy isn’t corrupted, you can compare the source and destination files with checksums.
+To confirm the copy isn’t corrupted, you can compare the source and destination files. -- need to replace this with diff 
 
+Check your own folder
 ```bash
 katefloer@katefloers-MacBook-Pro parvus % shasum 17H*                         
 c05a400168c1c9063ddeb12b6f8a0afea03c5da5  17H_S13_L001_R1_001.fastq.gz
@@ -46,6 +59,7 @@ c299816136906d195302afaa402eef9828ea44d5  17H_S13_L002_R1_001.fastq.gz
 b0353250b2547235bb3cfd3a70678442b927e252  17H_S13_L002_R2_001.fastq.gz
 ```
 
+Check the cmb folder
 ```bash
 katefloer@katefloers-MacBook-Pro Tadpole_RNAseq Data % shasum 17H*
 c05a400168c1c9063ddeb12b6f8a0afea03c5da5  17H_S13_L001_R1_001.fastq.gz
