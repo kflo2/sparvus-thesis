@@ -9,3 +9,25 @@
 .DS_Store
 
 /.quarto/
+
+# RStudio project files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Quarto output
+*_cache/
+*.html
+*.pdf
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
+*.aux
+*.out
+*.toc
