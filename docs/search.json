@@ -26,7 +26,7 @@
     "href": "methods.html",
     "title": "methods",
     "section": "",
-    "text": "#library(tidyverse)\n\ndf -h #make sure /Volumes/research/cmbdata/ shows up\nkatefloer@katefloers-MacBook-Pro ~ % df -h\n\nFilesystem                                               Size    Used   Avail Capacity iused ifree %iused  Mounted on\n//cmblab@ad.smith.edu/files/academic/research/cmbdata   4.0Ti   2.6Ti   1.4Ti    67%    711M  363M   66%   /Volumes/research/cmbdata\ncd /Volumes/research/cmbdata/mangiamelelab/Tadpole_RNAseq Data",
+    "text": "library(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.2     ✔ tibble    3.3.0\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n✔ purrr     1.1.0     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n#| eval: false\n# This will be displayed but not executed\ndf -h #make sure /Volumes/research/cmbdata/ shows up\ncd /Volumes/research/cmbdata/mangiamelelab/Tadpole_RNAseq Data",
     "crumbs": [
       "Methods",
       "methods"
@@ -37,7 +37,7 @@
     "href": "methods.html#methods",
     "title": "methods",
     "section": "",
-    "text": "#library(tidyverse)\n\ndf -h #make sure /Volumes/research/cmbdata/ shows up\nkatefloer@katefloers-MacBook-Pro ~ % df -h\n\nFilesystem                                               Size    Used   Avail Capacity iused ifree %iused  Mounted on\n//cmblab@ad.smith.edu/files/academic/research/cmbdata   4.0Ti   2.6Ti   1.4Ti    67%    711M  363M   66%   /Volumes/research/cmbdata\ncd /Volumes/research/cmbdata/mangiamelelab/Tadpole_RNAseq Data",
+    "text": "library(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.2     ✔ tibble    3.3.0\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n✔ purrr     1.1.0     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n#| eval: false\n# This will be displayed but not executed\ndf -h #make sure /Volumes/research/cmbdata/ shows up\ncd /Volumes/research/cmbdata/mangiamelelab/Tadpole_RNAseq Data",
     "crumbs": [
       "Methods",
       "methods"

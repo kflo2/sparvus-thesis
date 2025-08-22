@@ -35,3 +35,22 @@ cp 17H* /Users/katefloer/parvus/
 cp 17B* /Users/katefloer/parvus/
 ```
 
+Copying with cp doesn’t check file integrity by itself—it just copies bytes.
+To confirm the copy isn’t corrupted, you can compare the source and destination files with checksums.
+
+```bash
+katefloer@katefloers-MacBook-Pro parvus % shasum 17H*                         
+c05a400168c1c9063ddeb12b6f8a0afea03c5da5  17H_S13_L001_R1_001.fastq.gz
+27010374e02f69ab8a3745d202125ed45262e58e  17H_S13_L001_R2_001.fastq.gz
+c299816136906d195302afaa402eef9828ea44d5  17H_S13_L002_R1_001.fastq.gz
+b0353250b2547235bb3cfd3a70678442b927e252  17H_S13_L002_R2_001.fastq.gz
+```
+
+```bash
+katefloer@katefloers-MacBook-Pro Tadpole_RNAseq Data % shasum 17H*
+c05a400168c1c9063ddeb12b6f8a0afea03c5da5  17H_S13_L001_R1_001.fastq.gz
+27010374e02f69ab8a3745d202125ed45262e58e  17H_S13_L001_R2_001.fastq.gz
+c299816136906d195302afaa402eef9828ea44d5  17H_S13_L002_R1_001.fastq.gz
+b0353250b2547235bb3cfd3a70678442b927e252  17H_S13_L002_R2_001.fastq.gz
+```
+
