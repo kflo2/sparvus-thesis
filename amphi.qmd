@@ -1,0 +1,40 @@
+---
+title: "About amphibians"
+editor: visual
+date: today
+bibliography: references.bib
+---
+
+::: {.callout-note}
+According to @citiamph, *the class Amphibia is a highly diverse class of “cold-blooded” (ectothermic) vertebrates comprising over 4,000 species, that have been used widely in teaching and research. The word amphibian derives from the two Greek words amphi meaning “both” and bios meaning “life.” Amphibians are unique in that in their larval forms they are totally aquatic whereas, as adults, most are primarily terrestrial (though some species are aquatic throughout their life cycle).*
+:::
+
+::: {.callout-note title="Fun facts"}
+According to @husbandryquide, *there are more than 6,900 species (www.amphibiaweb.org) with potentially many hundreds more awaiting discovery and description. To give the reader an idea of how many amphibians remain to be described by science, approximately one quarter of all known amphibian diversity has been described in the past 20 years, with the rate of species discovery not yet having reached a plateau. Within the class Amphibia, lifestyles run the gamut from terrestrial to fully aquatic as adults, with some species even adapting and thriving in arid regions of the world. Reproductive modes range from the “typical” amphibian that is terrestrial as an adult but lays aquatic eggs that hatch into aquatic larvae, to species that brood their eggs within their vocal slits or special pouches on their backs, to females that are viviparous (give live birth). Within vertebrates, only fishes rival this wide range of reproductive modes.*
+:::
+
+## Taxonomy, Research Mandates, and Occupational Health Issues
+The orders of the Amphibia class are: **Gymnophiona, Anura, and Caudata.**
+
+::: {.callout-note title="Gymnophiona"}
+According to @citiamph, *these are limbless, burrowing amphibians with poorly-developed eyes and annular grooves on the body. They resemble earthworms and occur in in tropical areas of Africa, the Americas, and Asia. Also called caecilians, some species are <u>oviparous</u>* <span style="color:darkred;"> [producing eggs which are hatched after they have been laid by the parent, as in birds]</span> *and some are <u>viviparous</u>* <span style="color:darkred;">[give live birth]</span>. *Most species have aquatic juvenile forms, but some larvae are terrestrial. Members of this order are rarely used in the laboratory.*
+:::
+
+::: {.callout-note title="Anura"}
+According to @citiamph, *Anurans are the frogs and toads, and at more than 3,400 species they account for the bulk of amphibian species. These tailless amphibians usually have long hindlimbs that are adapted for jumping. The eggs are usually laid in water, although some are carried by the adult, and the larvae are aquatic. Adults may be terrestrial or aquatic. Commonly used laboratory genera include:*
+
+ - *Bufo (Anaxyrus) (the true toads), which have thick, warty skin and well-developed parotoid glands.*
+ - *Rana (Lithobates) (bullfrogs and leopard frogs) are semi-aquatic with smooth skin and are best known for their use in teaching anatomy and studies of physiology.*
+ - *Dendrobates and Oophaga (poison dart or arrow frogs), which are brightly colored, arboreal frogs that produce cutaneous toxins that are used by aboriginal peoples and studied by scientists.*
+ - *Xenopus (African clawed frogs), which are primitive, aquatic frogs used as a source of oocytes for developmental and genetic studies.*
+:::
+
+::: {.callout-note title="Caudata"}
+According to @citiamph, *the order Caudata (formerly classified as Urodela and still sometimes referred to as urodeles) includes three general groups: sirens, “primitive” salamanders, and “advanced” salamanders. Sirens are completely aquatic, lack hindlimbs, and have external gills. Salamanders are long-tailed amphibians that usually have two pairs of limbs of approximately equal size. Some are totally aquatic and some are terrestrial as adults. Some species (such as the axolotl) exhibit “neoteny” or the persistence of larval characteristics into adulthood. Fertilization is internal except in sirens and Cryptobranchidae (a group of primitive salamanders). Eggs are usually deposited singly or in clumps or strings in water and hatch into aquatic larvae, though some salamanders have direct development of terrestrial eggs.*
+:::
+
+
+
+## References
+
+

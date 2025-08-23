@@ -1,0 +1,94 @@
+---
+title: "Staurois parvus"
+editor: visual
+date: today
+bibliography: references.bib
+---
+
+::: {.callout-note}
+According to @parvusamphweb 
+
+**Staurois parvus (Inger & Haile, 1959) / Lesser Rock Skipper (Haas et al. 2022)**
+
+**Family:** Ranidae
+**Genus:** Staurois
+
+**Species Description:** Inger, R. F., and N. S. Haile. (1959). Two new frogs from Sarawak. Sarawak Museum Journal 9: 270–276.
+ 
+**Taxonomic Notes:** Resurrected by: Matsui M, Mohamed M, Shimada T, Sudin A. (2007). Resurrection of Staurois parvus from S. tuberilinguis from Borneo (Amphibia, Ranidae). Zoological Science 24, 101-106
+ 
+**Etymology:** In Latin, "parvus" means "small", which refers to Staurois parvus being the smallest species of the genus.
+:::
+
+
+::: {.callout-note}
+According to @parvusamphweb 
+
+**Conservation status:** IUCN Red List Status Account=Vulnerable (VU)
+
+**Description:**
+Staurois parvus is the smallest species of the Foot-flagging Frog genus Staurois, with males reaching 20 - 25 mm in snout-vent-length and females being slightly larger, 26 - 32 mm, in snout-vent length. The following description is based on Inger et al. (2017). Small, slender frog with a pointed snout and large eyes. The fingers not webbed while toes are. The dorsal skin is granulated with tubercles of various size.
+
+Dorsal coloration is a dark brown to almost black, with irregular light-brown blots. The top of the three inner toes and the respective upper webbing are blueish white. The belly is blueish white, and the chest and belly are white (with dark spots in females) (Inger et al. 2017).
+
+Juveniles are green, with irregular dark markings all over the body (Preininger, pers. comm.).
+
+**Distribution and Habitat:** Country distribution from AmphibiaWeb's database: Brunei Darussalam, Indonesia, Malaysia. Malaysian region distribution from AmphibiaWeb's database: Sabah, Sarawak
+
+The species is endemic to the island of Borneo where it occurs in several isolated locations in Brunei and Malaysia (Sarawak and Sabah) and parts of Indonesian Kalimantan (Inger et al. 2017). The species dwells small, fast flowing streams in mature primary forests at 100 - 900 m a.s.l. (Matsui et al. 2007) or 300 - 1,000 m a.s.l. (IUCN 2018).
+
+**Life History, Abundance, Activity, and Special Behaviors**
+The species is mostly diurnal and can be found perching on rocks in and alongside fast flowing streams (Matsui et al. 2007).
+
+Male S. parvus exhibit a wide range of visual displays, with foot flagging being the most common and conspicuous. Foot flagging involves raising and rotating the leg to expose the white webbing between the toes and lasts an average of 1.56 seconds. Less frequent displays include foot flashing, arm waving, upright or crouched postures, and open-mouth displays (Grafe et al. 2012).
+
+Females also perform visual signals like foot flagging and upright postures, and one tactile interaction (“leg-snout touch”) was observed, where a male extended his leg to touch a female’s snout in a possible courtship context. The purpose of these signals appears to vary between intra- and intersexual communication, but some interactions, such as the leg-snout touch, remain unclear (Grafe et al. 2012).
+
+The advertisement call consists of 1 - 35 high-pitched notes, which get higher and faster towards the end (Inger et al. 2017). Females also vocalize from time to time and show release calls in some cases when males attempt to mate.
+
+It sometimes occur in sympatry with Staurois guttatus (Matsui et al. 2007).
+
+**Larva**
+The larval description is based on Grosjean and Preininger (2020) and Haas et al. (2022). Tadpoles reach a maximum length of around 4cm. The body is elongated, oval, and less than half the length of the tail. The body is also laterally depressed. The snout is bluntly triangular with small dorsolateral nostrils and eyes. The eyes are covered with thick skin. The oral disc is positioned subterminally and shows one row of papillae on the lower lip. The tooth-row formula is: 2(2)/10(1) to 2(2)/11(1 - 3).
+
+The lotic tadpoles are similar to the ones of S. gutattus (Inger et al. 2017) and other known Staurois larvae.
+
+The tapoles are mostly unpigmented. The transparent skin makes them look reddish as the organs shine though. However, on the dorsum there is a slight band of dark pigments from the head to the end to the tail muscle. Furthermore, the skin shows a bluish iridescence in life specimens (Grosjean and Preininger 2020, Haas et al. 2022).
+
+**Trends and Threats**
+Staurois parvus is listed as by the IUCN (2018) as "Vulnerable". This is due to the the species being found in few locations, which are all under pressure of deforestation, pollution and climate change.
+
+Tiergarten Schönbrunn (Zoo) in Vienna successfully breeds the species (Preininger et al. 2012) under the lead of Doris Preininger and together with Citizen Conservation (https://citizen-conservation.org) they created an ex-situ conservation program for S. parvus.
+
+**Possible reasons for amphibian decline**
+
+General habitat alteration and loss
+Habitat modification from deforestation, or logging related activities
+
+**Comments**:
+There is discordance between Maximum Parsimony and Bayesian Inference analyses of 16S mtDNA for this genus. The maximum parsimony results indicate that S. guttatus is sister to the clade composed of S. parvus and S. tuberilinguis, however, Bayesian inference indicate that S. guttatus is sister to S. nubilus. The sister clade in the Bayesian inference analysis is composed of S. parvus and S. tuberilinguis (Arifin et al. 2011).
+:::
+
+::: {.callout-note}
+Need to read: 
+
+Arifin U., Iskandar, D. T., Bickford, D. P., Brown, R. M., Meier, R., Kutty, S. N. (2011) Phylogenetic relationships within the genus Staurois (Anura, Ranidae) based on 16S rRNA sequences. Zootaxa 2744(1), 39-54. [link]
+
+Grafe, T. U., Preininger, D., Sztatecsny, M., Kasah, R., Dehling, J. M., Proksch, S., and Hödl, W. (2012). Multimodal communication in a noisy environment: a case study of the Bornean rock frog Staurois parvus. PloS one, 7(5), e37965. [link]
+
+Grosjean, S., and Preininger, D. (2020). Description of two Staurois tadpoles from Borneo, Staurois parvus and Staurois tuberilinguis (Anura: Ranidae). Zootaxa, 4896(4), 523-534. [link]
+Haas, A., I. Das, S. T. Hertwig, P. Bublies, and R. Schulz-Schaeffer (2022). A Guide to the Tadpoles of Borneo (eBook version). Hamburg, Germany. Tredition.
+Inger, R. F., and N. S. Haile (1959). Two new frogs from Sarawak. Sarawak Museum Journal 9, 270–276.
+
+Inger, R. F., Stuebing, R. B., Grafe, U., and Dehling, J. M. (2017). A Field Guide to the Frogs of Borneo. Natural History Publications (Borneo) Limited, Kota Kinabalu.
+
+IUCN SSC Amphibian Specialist Group. (2018). Staurois parvus. The IUCN Red List of Threatened Species 2018: e.T135759A97518102. https://dx.doi.org/10.2305/IUCN.UK.2018-1.RLTS.T135759A97518102.en. Accessed on 29 November 2024.
+
+Matsui, M., Mohamed, M., Shimada, T., and Sudin, A. (2007). Resurrection of Staurois parvus from S. tuberilinguis from Borneo (Amphibia, Ranidae). Zoological Science. Tokyo 24(1), 101–106. [link]
+
+Preininger, D., Weissenbacher, A., Wampula, T., and Hödl, W. (2012). The conservation breeding of two foot-flagging frog species from Borneo, Staurois parvus and Staurois guttatus. Amphib Reptile Conserv, 5, 45-56. [download]
+
+:::
+
+## References
+

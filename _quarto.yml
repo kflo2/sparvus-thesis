@@ -10,9 +10,11 @@ website:
       - section: "Introduction"
         contents:
           - index.qmd
+          - amphi.qmd
+          - parvus.qmd
       - section: "Methods"
         contents:
-          - methods.qmd
+          - rawdata.qmd
       - section: "Discussion"
         contents:
           - discussion.qmd

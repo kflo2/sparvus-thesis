@@ -1,12 +1,10 @@
 ---
-title: "methods"
+title: "Looking at Raw Data"
 format: html
 editor: visual
 ---
 
-## Raw Data
-
-### Looking at raw data (from a Mac computer)
+### (from a Mac computer)
 
 1. Log onto the CMB server from your computer (on a Mac `Desktop` > `Go` > `Connect to Server` > log in to `smb://cmblab:*@ad.smith.edu/files/academic/research` with credentials your login credentials from Riccardo) 
 2. Go to your terminal to double check you actually have access to the folder. We will be looking for mounted files in your system. A mounted file is a storage device or remote share that’s currently attached to your system and accessible via a directory (the mount point).
