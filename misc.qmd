@@ -1,0 +1,7 @@
+---
+title: "miscellaneous"
+editor: visual
+---
+
+Formatting bibtex
+https://www.bibtex.com/e/entry-types/

@@ -18,6 +18,7 @@ website:
       - section: "Discussion"
         contents:
           - discussion.qmd
+      - section: "Miscellaneous"
 
 format:
   html:
