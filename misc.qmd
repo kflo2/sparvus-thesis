@@ -1,7 +1,36 @@
 ---
 title: "miscellaneous"
 editor: visual
+bibliography: references.bib
 ---
 
 Formatting bibtex
 https://www.bibtex.com/e/entry-types/
+
+
+-
+
+From @citiamph
+
+As noted previously, amphibians do better in relatively cool temperatures, generally 10-20 degrees C, though the ideal temperature will vary by species. Water generally does not need to be aerated, with the possible exception of water housing larval forms or gill-breathing adults. The pH of water (and other environmental elements for terrestrial species) is best kept in the neutral or slightly alkaline range (7-8.5). A very acidic environment (less than 4.0) is likely to be toxic. Water in static systems should be changed after feeding to remove uneaten food and minimize the bacterial load in the water.
+
+Ventilation
+
+Air flow rates recommended for mammals (15-20 changes per hour) are likely to be dehydrating in terrestrial amphibians. Ambient humidity for these animals should be maintained at 70-80 percent to help animals maintain skin moisture. Ventilation rates should be decreased from mammalian standards and/or air should be humidified for amphibians.
+
+Sanitation
+Sanitation of amphibian enclosures can pose special challenges because of territorial behavior and pheromone marking as well as the sensitivity of amphibians to chemical agents.
+
+Frequent sanitation of terrestrial species can disrupt territorial markings and lead to behavioral distress. On the other hand, ignoring sanitation can lead to accumulation of toxic metabolites and opportunistic bacteria. A balance must be found between the competing goals of a clean environment and minimizing disruption of the animal's normal behaviors. Singly housed amphibians in terraria may be managed effectively by cleaning cages approximately every two weeks. Amphibians in an aquatic environment require cleaning more frequently, at intervals ranging from daily to weekly. Tanks for housing Xenopus species are commonly cleaned after feeding, approximately three times weekly.
+
+Sanitization should be accomplished without using the chemicals normally employed with mammals (for example, detergents and quaternary ammonium or phenolic compounds). If the cages will tolerate it, standard cagewashers without chemicals are effective. Physical scrubbing accompanied by copious flushing with clean, non-chlorinated water may be effective. If a disinfectant must be used, dilute bleach (for example, 1:32 ratio with water) may be used if it is thoroughly rinsed after use.
+
+Nutrition
+Adult amphibians are carnivorous and most require moving (live) food, although some of the more commonly used laboratory species such as Xenopus and Ambystoma do well on chopped heart muscle, liver, or commercial fish diets or frog diets.
+
+Live foods may include crickets, mealworms, tubifex worms, fly larvae, earthworms, and "pinkies" (immature rodents). Crickets and other arthropods are usually deficient in calcium and vitamins. This may be supplemented by dusting the insects with a calcium/vitamin mix, or by raising the feed insects in-house and feeding them with diets enhanced with calcium and vitamins.
+
+Larval amphibians are mainly herbivorous or omnivorous, becoming carnivorous as they undergo metamorphosis. They feed on copepods and other microscopic invertebrates, or flake-type fish food, alfalfa pellets, or boiled spinach.
+
+## References
+
