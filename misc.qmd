@@ -4,11 +4,30 @@ editor: visual
 bibliography: references.bib
 ---
 
-Formatting bibtex
-https://www.bibtex.com/e/entry-types/
+Formatting bibtex https://www.bibtex.com/e/entry-types/
 
+[**Ana Carolina Pacífico**](https://www.linkedin.com/in/ana-carolina-pac%C3%ADfico?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACncHswBcs5-zkcdIHN_JiInWCYm8SDEW-Y)
 
--
+<https://www.linkedin.com/posts/ana-carolina-pac%C3%ADfico_working-with-public-genomic-databases-is-activity-7366498197743058948-UYHa?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKJLfgB9wD9N2XbzjvQ5r73h4OfwLjZjo0>
+
+Working with public genomic databases is a huge advantage for anyone in bioinformatics or clinical research.\
+\
+But there's a difference between accessing data and using it correctly. Before running an analysis or uploading results to GitHub, I always check: \
+\
+Can I redistribute or publish this data?\
+Are there usage restrictions (e.g. academic only, no commercial use)?\
+Is explicit citation required?\
+Can I use it for figures or supplementary materials?\
+\
+For example, COSMIC allows internal analysis, but doesn’t allow raw data to be uploaded publicly, even in code repositories.\
+\
+Databases like Ensembl, ClinVar, TCGA, and GEO all have different licensing models and citation policies.\
+\
+If you're building a pipeline or writing a paper, data compliance and transparency matter as much as accuracy.\
+\
+Respecting terms of use it's part of scientific integrity and checking this early will save you from problems later."
+
+\-
 
 From @citiamph
 
@@ -18,19 +37,16 @@ Ventilation
 
 Air flow rates recommended for mammals (15-20 changes per hour) are likely to be dehydrating in terrestrial amphibians. Ambient humidity for these animals should be maintained at 70-80 percent to help animals maintain skin moisture. Ventilation rates should be decreased from mammalian standards and/or air should be humidified for amphibians.
 
-Sanitation
-Sanitation of amphibian enclosures can pose special challenges because of territorial behavior and pheromone marking as well as the sensitivity of amphibians to chemical agents.
+Sanitation Sanitation of amphibian enclosures can pose special challenges because of territorial behavior and pheromone marking as well as the sensitivity of amphibians to chemical agents.
 
 Frequent sanitation of terrestrial species can disrupt territorial markings and lead to behavioral distress. On the other hand, ignoring sanitation can lead to accumulation of toxic metabolites and opportunistic bacteria. A balance must be found between the competing goals of a clean environment and minimizing disruption of the animal's normal behaviors. Singly housed amphibians in terraria may be managed effectively by cleaning cages approximately every two weeks. Amphibians in an aquatic environment require cleaning more frequently, at intervals ranging from daily to weekly. Tanks for housing Xenopus species are commonly cleaned after feeding, approximately three times weekly.
 
 Sanitization should be accomplished without using the chemicals normally employed with mammals (for example, detergents and quaternary ammonium or phenolic compounds). If the cages will tolerate it, standard cagewashers without chemicals are effective. Physical scrubbing accompanied by copious flushing with clean, non-chlorinated water may be effective. If a disinfectant must be used, dilute bleach (for example, 1:32 ratio with water) may be used if it is thoroughly rinsed after use.
 
-Nutrition
-Adult amphibians are carnivorous and most require moving (live) food, although some of the more commonly used laboratory species such as Xenopus and Ambystoma do well on chopped heart muscle, liver, or commercial fish diets or frog diets.
+Nutrition Adult amphibians are carnivorous and most require moving (live) food, although some of the more commonly used laboratory species such as Xenopus and Ambystoma do well on chopped heart muscle, liver, or commercial fish diets or frog diets.
 
 Live foods may include crickets, mealworms, tubifex worms, fly larvae, earthworms, and "pinkies" (immature rodents). Crickets and other arthropods are usually deficient in calcium and vitamins. This may be supplemented by dusting the insects with a calcium/vitamin mix, or by raising the feed insects in-house and feeding them with diets enhanced with calcium and vitamins.
 
 Larval amphibians are mainly herbivorous or omnivorous, becoming carnivorous as they undergo metamorphosis. They feed on copepods and other microscopic invertebrates, or flake-type fish food, alfalfa pellets, or boiled spinach.
 
 ## References
-
